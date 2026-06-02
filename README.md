@@ -139,6 +139,22 @@ The network contains stronger associations with culture-war, education, and poli
 
 ---
 
+## Visualizations
+
+### Sentiment Timeline
+
+![Sentiment Timeline](images/sentiment_timeline.png)
+
+### Positive Semantic Network
+
+![Positive Network](images/positive_network.png)
+
+### Negative Semantic Network
+
+![Negative Network](images/negative_network.png)
+
+---
+
 ## Key Findings
 
 * Positive tweets represented the largest sentiment category.

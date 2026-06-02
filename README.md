@@ -102,10 +102,10 @@ Network properties analyzed include:
 The sentiment analysis produced the following distribution:
 
 | Sentiment | Percentage |
-| --------- | ---------- |
-| Positive  | 43.7%      |
-| Negative  | 37.2%      |
-| Neutral   | 19.1%      |
+|---|---:|
+| Positive | 43.7% |
+| Negative | 37.2% |
+| Neutral | 19.1% |
 
 Positive tweets slightly outnumbered negative tweets, although both categories remained relatively balanced throughout the observation period.
 
@@ -184,7 +184,7 @@ social-media-sentiment-network-analysis/
 
 ├── README.md
 ├── requirements.txt
-├── Analisis_de_sentimientos_y_redes_semanticas_en_tweets_LGBT.ipynb
+├── Análisis_de_sentimientos_y_redes_semanticas_en_tweets_LGBT.ipynb
 
 ├── data/
 │   ├── lgbt_tweets.csv
@@ -220,7 +220,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-Analisis_de_sentimientos_y_redes_semanticas_en_tweets_LGBT.ipynb
+Análisis_de_sentimientos_y_redes_semanticas_en_tweets_LGBT.ipynb
 ```
 
 4. Run all cells to reproduce:

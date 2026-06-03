@@ -184,7 +184,7 @@ social-media-sentiment-network-analysis/
 
 ├── README.md
 ├── requirements.txt
-├── Sentiment_and_Network_Analysis_about_LGBTIQ_Tweets.ipynb
+├── Sentiment_and_Network_Analysis_on_LGBTIQ_Tweets.ipynb
 
 ├── data/
 │   ├── lgbt_tweets.csv
@@ -220,7 +220,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-Sentiment_and_Network_Analysis_about_LGBTIQ_Tweets.ipynb
+Sentiment_and_Network_Analysis_on_LGBTIQ_Tweets.ipynb
 ```
 
 4. Run all cells to reproduce:

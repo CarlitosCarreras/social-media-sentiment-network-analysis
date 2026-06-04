@@ -233,6 +233,18 @@ Sentiment_and_Network_Analysis_on_LGBTIQ_Tweets.ipynb
 
 ---
 
+## Skills Demonstrated
+
+- Collection and preprocessing of social media text data
+- Sentiment classification of LGBT-related tweets
+- Construction of positive and negative semantic networks
+- Identification of relevant terms, hashtags, and discourse patterns
+- Visualization and interpretation of networks using Gephi
+- Application of NLP techniques to social media analysis
+- Computational social science approach to online public discourse
+
+---
+
 ## Author
 
 Carlos F. Carreras De León

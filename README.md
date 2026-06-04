@@ -143,15 +143,15 @@ The network contains stronger associations with culture-war, education, and poli
 
 ### Sentiment Timeline
 
-![Sentiment Timeline](images/sentiment_timeline.png)
+![Sentiment Timeline](images/sentiment-timeline.png)
 
 ### Positive Semantic Network
 
-![Positive Network](images/positive_network.png)
+![Positive Network](images/positive-network.png)
 
 ### Negative Semantic Network
 
-![Negative Network](images/negative_network.png)
+![Negative Network](images/negative-network.png)
 
 ---
 
